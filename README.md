@@ -1,5 +1,7 @@
 ### Hi, I´m Yoe 👋
 
+![me](https://github.com/Yac-Mc/yac-mc/blob/master/Development.jpeg)
+
 ```javascript
 const yac = {
   pronouns: Yoe,
