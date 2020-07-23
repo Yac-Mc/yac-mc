@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I´m Yoe 👋
+
+```javascript
+const yac = {
+  pronouns: Yoe,
+  technologies: 'Web',
+  passions:['Performance Web', Applications Development],
+  code: [C#, Javascript, Typescript, HTML, CSS, Java, SQL, VB.Net],
+  frameWork: [.Net, .NetCore, Angular],
+  ide: [Visual Studio, Android Studio]
+}
+```
 
 <!--
 **Yac-Mc/yac-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
