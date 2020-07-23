@@ -5,8 +5,8 @@
 ```javascript
 const yac = {
   pronouns: Yoe,
-  technologies: 'Web',
-  passions:['Performance Web', Applications Development],
+  technologies: Web,
+  passions:[Performance Web, Applications Development],
   code: [C#, Javascript, Typescript, HTML, CSS, Java, SQL, VB.Net],
   frameWork: [.Net, .NetCore, Angular],
   ide: [Visual Studio, Android Studio]
