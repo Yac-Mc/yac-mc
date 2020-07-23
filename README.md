@@ -1,6 +1,6 @@
 ### Hi, I´m Yoe 👋
 
-![me](https://github.com/Yac-Mc/yac-mc/blob/master/Development.jpeg)
+![me](https://github.com/Yac-Mc/yac-mc/blob/master/Development.png)
 
 ```javascript
 const yac = {
